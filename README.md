@@ -33,7 +33,7 @@ O sistema tem um método para notificação para usuários novos e para quando o
   $ git clone https://github.com/CarlosAug-tech/videoupload-web.git
 
   # Entrar no diretório
-  $ cd authenticated-frontend
+  $ cd videoupload-web
 
   # Instalar as dependências
   $ yarn install
