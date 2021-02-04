@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center" >
-  <img src="https://ik.imagekit.io/ik54mxkwpj/Apresenta__o_video-upload__1__PrbURinLt.gif" />
+  <img src="https://ik.imagekit.io/ik54mxkwpj/apresentacaovideoupload_fF9FXukvd.gif" />
 </h1>
 
 ## 📋 Sobre
@@ -30,7 +30,7 @@ O sistema tem um método para notificação para usuários novos e para quando o
 ```bash
 
   # Clonar o repositório
-  $ git clone https://github.com/CarlosAugusto2128/authenticated-notify-frontend
+  $ git clone https://github.com/CarlosAug-tech/videoupload-web.git
 
   # Entrar no diretório
   $ cd authenticated-frontend
